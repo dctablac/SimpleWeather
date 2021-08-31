@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bg-night: #36393B;
+    --bg-day: #A5D8FF;
+    
+}
+
+html {
+    font-family: 'Merriweather Sans', sans-serif;
+}
