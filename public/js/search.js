@@ -1,4 +1,4 @@
-const apiUrl = 'http://dctablac-simple-weather-bckend.herokuapp.com/weather'
+const apiUrl = 'https://dctablac-simple-weather-bckend.herokuapp.com/weather'
 const searchButton = document.getElementById('search-button');
 
 
