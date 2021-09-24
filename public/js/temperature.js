@@ -3,9 +3,9 @@
 // Format temp for display
 export function formatTemp(temp, unit='K') {
     if (unit === 'K') {
-        return `${kelvinToFahrenheit(temp)}<sup>o</sup>F`
+        return `${kelvinToFahrenheit(temp)}<sup>o</sup> F`
     } else if (unit === 'F') {
-        return `${celsiusToFahrenheit(temp)} <sup>o</sup> ${unit}`;
+        return `${celsiusToFahrenheit(temp)}<sup>o</sup>${unit}`;
     } else { // 'C'
         return `${fahrenheitToCelsius(temp)}<sup>o</sup>${unit}`;
     }

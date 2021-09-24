@@ -9,16 +9,15 @@ export function displayCurrentWeather(city, currentWeatherDetails) {
     const description = currentWeatherDetails.weather_description.description
     const temperature = formatTemp(currentWeatherDetails.current_temp)
 
-    document.querySelector('#date').innerHTML = unixToDate(Date.now());
-    document.querySelector('#location').innerHTML = capitalize(city);
-    document.querySelector('#weather-animation-container').innerHTML = weatherIcon(iconCode, "current");
-    document.querySelector('#weather-temperature').innerHTML = temperature;
-    document.querySelector('#weather-description').innerHTML = description;
+    //document.querySelector('.date').innerHTML = unixToDate(Date.now());
+    document.querySelector('.location').innerHTML = capitalize(city);
+    document.querySelector('.weather-animation-container').innerHTML = weatherIcon(iconCode, "current");
+    document.querySelector('.weather-temperature').innerHTML = temperature;
+    document.querySelector('.weather-description').innerHTML = description;
 }
 
 export function displaySevenDayForecast(forecastWeek) {
-    let forecastDays = document.querySelector('#forecast-container').children;
-    // console.log(forecastDays)
+    let forecastDays = document.querySelector('.forecast-container').children;
     for (let i = 0; i < 7; i++) {
         forecastDays[i].innerHTML = formatForecast(forecastWeek[i+1]);
     }

@@ -11,28 +11,36 @@
     <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div id="nav-burger-icon">
+    <!-- <div id="nav-burger-icon">
         <div class="nav-patty"></div>
         <div class="nav-patty"></div>
         <div class="nav-patty"></div>
-    </div>
+    </div> -->
 
-    <form id="search-bar-container" method="GET">
-        <label for="search-bar">What's the weather like in...</label>
-        <p id="search-msg"></p>
-        <input type="text" name="search-bar" id="search-bar">
-        <button id="search-button">Search</button>
+    <form class="search-bar-container" method="GET">
+        <!-- <label for="search-bar">What's the weather like in...</label> -->
+        <p class="search-msg"></p>
+        <input 
+        type="text" name="search-bar" 
+        class="search-bar" required
+        placeholder="What's the weather like in..."
+        >
+        <button class="search-button">Search</button>
     </form>
 
-    <div id="weather-display-container">
-        <div id="date"></div>
-        <div id="location"></div>
-        <div id="weather-animation-container"></div>
-        <div id="weather-temperature"></div>
-        <div id="weather-description"></div>
+    <div class="loading-container hidden">
+        <div class="loader"></div>
     </div>
 
-    <div id="forecast-container">
+    <div class="weather-display-container hidden">
+        <!-- <div class="date"></div> -->
+        <div class="location"></div>
+        <div class="weather-animation-container"></div>
+        <div class="weather-temperature"></div>
+        <div class="weather-description"></div>
+    </div>
+
+    <div class="forecast-container hidden">
         <div class="forecast"></div>
         <div class="forecast"></div>
         <div class="forecast"></div>
