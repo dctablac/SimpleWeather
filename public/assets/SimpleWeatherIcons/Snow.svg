@@ -1,0 +1,35 @@
+<svg width="92" height="83" viewBox="0 0 92 83" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Snow">
+<circle id="snowflake-center" cx="46.1646" cy="41" r="14" stroke="#8AC7FF" stroke-width="7"/>
+<g id="snowflake-arm-1">
+<line id="Line 3" x1="46.6646" y1="26.5" x2="46.6646" y2="3.5" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 7" x1="48.9386" y1="13.1035" x2="56.562" y2="10.6779" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 8" x1="36.4488" y1="8.94718" x2="43.377" y2="12.9472" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g id="snowflake-arm-4">
+<line id="Line 3_2" x1="45.9617" y1="56.5" x2="45.9617" y2="79.5" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 7_2" x1="43.6876" y1="69.8965" x2="36.0642" y2="72.3221" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 8_2" x1="56.1774" y1="74.0528" x2="49.2492" y2="70.0528" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g id="snowflake-arm-6">
+<line id="Line 3_3" x1="30.4481" y1="36.4456" x2="10.5295" y2="24.9456" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 7_3" x1="19.9834" y1="27.778" x2="21.6945" y2="19.9631" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 8_3" x1="10.1391" y1="36.5163" x2="17.0673" y2="32.5163" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g id="snowflake-arm-5">
+<line id="Line 3_4" x1="32.0967" y1="49.9456" x2="12.1781" y2="61.4456" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 7_4" x1="19.358" y1="54.6745" x2="13.4456" y2="49.2852" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 8_4" x1="22.0034" y1="67.5691" x2="22.0034" y2="59.5691" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g id="snowflake-arm-2">
+<line id="Line 3_5" x1="61.194" y1="37.7376" x2="81.1126" y2="26.2376" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 7_5" x1="73.9327" y1="33.0087" x2="79.845" y2="38.398" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 8_5" x1="71.2873" y1="20.1141" x2="71.2873" y2="28.1141" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g id="snowflake-arm-3">
+<line id="Line 3_6" x1="60.8426" y1="51.2376" x2="80.7611" y2="62.7376" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 7_6" x1="71.3072" y1="59.9052" x2="69.5962" y2="67.7201" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+<line id="Line 8_6" x1="81.1516" y1="51.167" x2="74.2234" y2="55.167" stroke="#8AC7FF" stroke-width="7" stroke-linecap="round"/>
+</g>
+</g>
+</svg>

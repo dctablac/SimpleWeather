@@ -3,6 +3,27 @@ import { unixToDate, dayOfTheWeek } from "./time.js";
 import { formatTemp } from "./temperature.js";
 
 const openWeatherIconUrl = 'http://openweathermap.org/img/wn/';
+const iconDir = '/assets/SimpleWeatherIcons/'
+const iconCodeMap = {
+   '01d': 'Sun.svg',
+   '01n': 'Moon.svg',
+   '02d': 'Partly-Cloudy.svg',
+   '02n': 'Night-Partly-Cloudy.svg',
+   '03d': 'Cloud.svg',
+   '03n': 'Cloud.svg',
+   '04d': 'Broken-Clouds.svg',
+   '04n': 'Broken-Clouds.svg',
+   '09d': 'Shower-Rain.svg',
+   '09n': 'Shower-Rain.svg',
+   '10d': 'Rain.svg',
+   '10n': 'Night-Rain.svg',
+   '11d': 'Thunderstorm.svg',
+   '11n': 'Thunderstorm.svg',
+   '13d': 'Snow.svg',
+   '13n': 'Snow.svg',
+   '50d': 'Mist.svg',
+   '50n': 'Mist.svg'     
+}
 
 export function displayCurrentWeather(city, currentWeatherDetails) {
     const iconCode = currentWeatherDetails.weather_description.icon
@@ -39,9 +60,11 @@ function formatForecast(forecastDay) {
 }
 
 function weatherIcon(newIconCode, type="forecast") {
+    console.log(iconDir + iconCodeMap[newIconCode]);
+    // Use SVG folder
     if (type === "current") {
-        return `<img src="${openWeatherIconUrl + newIconCode + '@2x.png'}"/>`;
+        return `<img src="${ iconDir + iconCodeMap[newIconCode]}" alt="${iconCodeMap[newIconCode]}"/>`;
     } else {
-        return `<img class="forecast-icon" src="${openWeatherIconUrl + newIconCode + '@2x.png'}"/>`;
+        return `<img class="forecast-icon" src="${ iconDir + iconCodeMap[newIconCode] }" alt="${iconCodeMap[newIconCode]}"/>`;
     }
 }

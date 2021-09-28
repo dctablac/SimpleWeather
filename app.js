@@ -8,6 +8,7 @@ module.exports = app;
 
 app.use('/css', express.static('public/css'));
 app.use('/js', express.static('public/js'));
+app.use('/assets', express.static('public/assets'));
 
 app.get('/', (req, res) => res.sendFile(path.join(__dirname, '/index.html')));
 

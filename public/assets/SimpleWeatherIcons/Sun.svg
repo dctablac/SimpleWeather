@@ -1,0 +1,13 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Sun">
+<path id="center" d="M79.2101 49.5169C79.2101 65.916 65.916 79.2102 49.5169 79.2102C33.1178 79.2102 19.8237 65.916 19.8237 49.5169C19.8237 33.1178 33.1178 19.8237 49.5169 19.8237C65.916 19.8237 79.2101 33.1178 79.2101 49.5169Z" fill="#EBD45B" stroke="#EBD45B"/>
+<path id="top-ray" d="M41.0008 14.7174L49.5169 0.950438L58.033 14.7174H41.0008Z" fill="#EBD45B" stroke="#EBD45B"/>
+<path id="left-ray" d="M14.7174 58.5161L0.950438 50L14.7174 41.4839L14.7174 58.5161Z" fill="#EBD45B" stroke="#EBD45B"/>
+<path id="right-ray" d="M85.2826 41.0008L99.0496 49.5169L85.2826 58.033V41.0008Z" fill="#EBD45B" stroke="#EBD45B"/>
+<path id="bottom-ray" d="M58.033 85.2826L49.5169 99.0496L41.0008 85.2826H58.033Z" fill="#EBD45B" stroke="#EBD45B"/>
+<path id="top-right-ray" d="M70.8219 15.9357L86.5784 12.2228L82.8654 27.9793L70.8219 15.9357Z" fill="#EBD45B" stroke="#EBD45B"/>
+<path id="top-left-ray" d="M16.4187 28.4623L12.7058 12.7058L28.4623 16.4188L16.4187 28.4623Z" fill="#EBD45B" stroke="#EBD45B"/>
+<path id="bottom-left-ray" d="M27.9792 81.8993L12.2227 85.6122L15.9357 69.8557L27.9792 81.8993Z" fill="#EBD45B" stroke="#EBD45B"/>
+<path id="bottom-right-ray" d="M84.7765 70.6489L85.6969 86.8108L70.8246 80.4182L84.7765 70.6489Z" fill="#EBD45B" stroke="#EBD45B"/>
+</g>
+</svg>

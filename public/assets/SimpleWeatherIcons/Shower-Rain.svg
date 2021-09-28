@@ -1,0 +1,28 @@
+<svg width="125" height="157" viewBox="0 0 125 157" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Shower-Rain">
+<g id="Broken-Clouds">
+<g id="Dark-Cloud">
+<path id="dark-cloud-puff-1" d="M124.5 56C124.5 66.6712 113.641 75.5 100 75.5C86.3591 75.5 75.5 66.6712 75.5 56C75.5 45.3288 86.3591 36.5 100 36.5C113.641 36.5 124.5 45.3288 124.5 56Z" fill="#CDCACA" stroke="#CDCACA"/>
+<path id="dark-cloud-puff-4" d="M110.5 29.5C110.5 36.1274 105.127 41.5 98.5 41.5C91.8726 41.5 86.5 36.1274 86.5 29.5C86.5 22.8726 91.8726 17.5 98.5 17.5C105.127 17.5 110.5 22.8726 110.5 29.5Z" fill="#CDCACA" stroke="#CDCACA"/>
+<path id="dark-cloud-puff-2" d="M74.5 53.5C74.5 65.602 63.5818 75.5 50 75.5C36.4182 75.5 25.5 65.602 25.5 53.5C25.5 41.398 36.4182 31.5 50 31.5C63.5818 31.5 74.5 41.398 74.5 53.5Z" fill="#CDCACA" stroke="#CDCACA"/>
+<circle id="dark-cloud-puff-3" cx="66" cy="25" r="24.5" fill="#CDCACA" stroke="#CDCACA"/>
+<rect id="dark-base" x="50" y="36" width="50" height="40" fill="#CDCACA"/>
+</g>
+<g id="Cloud">
+<path id="cloud-puff-1" d="M99.5 76C99.5 86.6712 88.6409 95.5 75 95.5C61.3591 95.5 50.5 86.6712 50.5 76C50.5 65.3288 61.3591 56.5 75 56.5C88.6409 56.5 99.5 65.3288 99.5 76Z" fill="#F6F6F6" stroke="#F6F6F6"/>
+<path id="cloud-puff-4" d="M85.5 49.5C85.5 56.1274 80.1274 61.5 73.5 61.5C66.8726 61.5 61.5 56.1274 61.5 49.5C61.5 42.8726 66.8726 37.5 73.5 37.5C80.1274 37.5 85.5 42.8726 85.5 49.5Z" fill="#F6F6F6" stroke="#F6F6F6"/>
+<path id="cloud-puff-2" d="M49.5 73.5C49.5 85.602 38.5818 95.5 25 95.5C11.4182 95.5 0.5 85.602 0.5 73.5C0.5 61.398 11.4182 51.5 25 51.5C38.5818 51.5 49.5 61.398 49.5 73.5Z" fill="#F6F6F6" stroke="#F6F6F6"/>
+<circle id="cloud-puff-3" cx="41" cy="45" r="24.5" fill="#F6F6F6" stroke="#F6F6F6"/>
+<rect id="base" x="25" y="56" width="50" height="40" fill="#F6F6F6"/>
+</g>
+</g>
+<g id="Raindrops">
+<ellipse id="raindrop-1" cx="25.9539" cy="113.351" rx="5.5" ry="10" transform="rotate(22.8691 25.9539 113.351)" fill="#51AFE3"/>
+<ellipse id="raindrop-4" cx="25.9539" cy="145.351" rx="5.5" ry="10" transform="rotate(22.8691 25.9539 145.351)" fill="#51AFE3"/>
+<ellipse id="raindrop-2" cx="48.9539" cy="113.351" rx="5.5" ry="10" transform="rotate(22.8691 48.9539 113.351)" fill="#51AFE3"/>
+<ellipse id="raindrop-5" cx="48.9539" cy="145.351" rx="5.5" ry="10" transform="rotate(22.8691 48.9539 145.351)" fill="#51AFE3"/>
+<ellipse id="raindrop-3" cx="72.9539" cy="113.351" rx="5.5" ry="10" transform="rotate(22.8691 72.9539 113.351)" fill="#51AFE3"/>
+<ellipse id="raindrop-6" cx="72.9539" cy="145.351" rx="5.5" ry="10" transform="rotate(22.8691 72.9539 145.351)" fill="#51AFE3"/>
+</g>
+</g>
+</svg>
